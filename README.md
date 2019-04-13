@@ -5,9 +5,11 @@
 **LogDisabler** is a plugin for **DemonBuddy** (a bot for **Diablo III** videogame),
 on which you can use this plugin to disable the creation of log files.
 
-**DemonBuddy** performs thousands and thousands of I/O disk write operations in short periods of time for writing log files; this can reduce the life of your hard-drive and also can cause an overall negative performance impact on your system if other programs are requesting to perform other I/O disk operations simultaneously. 
+**DemonBuddy** performs thousands and thousands of disk I/O write operations in short periods of time for writing to log files; this can reduce the life of your hard-drive and also can cause an overall negative performance impact on your machine if other programs are requesting to perform other disk I/O operations simultaneously.
 
-If you don't need to manage the log files created by **DemonBuddy**, then there is no good reason why you are allowing **DemonBuddy** to create these logs. The problem here is **DemonBuddy** does not provide a built-in feature to disable log file creation, and this is why you should use **LogDisabler** plugin. 
+If you don't need to view/manage the log files created by **DemonBuddy**, then there is no good reason why you are still allowing it to create these logs. To prevent this behavior, **LogDisabler** can be used to deny write permissions for the current user on the 'Logs' folder inside **DemonBuddy** directory.
+
+Note that this plugin does not disable logging messages in the user-interface, you can still use **DemonBuddy** settings to disable that.
 
 ------------------------
 
