@@ -1,0 +1,1 @@
+# LogDisabler plugin for DemonBuddy
