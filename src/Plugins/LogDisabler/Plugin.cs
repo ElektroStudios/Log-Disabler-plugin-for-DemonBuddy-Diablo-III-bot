@@ -70,7 +70,7 @@ namespace LogDisabler {
         /// ----------------------------------------------------------------------------------------------------
         public string Description {
             get {
-                return "Disables the creation of log files.";
+                return "Disable the creation of log files.";
             }
         }
 
