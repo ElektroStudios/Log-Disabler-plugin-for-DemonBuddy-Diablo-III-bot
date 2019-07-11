@@ -1,6 +1,6 @@
 # LogDisabler plugin for DemonBuddy
 
-![](images/Logo.png)
+![](Images/Logo.png)
 
 **LogDisabler** is a plugin for **DemonBuddy** (a bot for **Diablo III** videogame),
 on which you can use this plugin to disable the creation of log files.
@@ -13,7 +13,7 @@ Note that this plugin does not disable logging messages in the user-interface, y
 
 # Screenshots
 
-![](images/01.png)
+![](Images/01.png)
 
 # **Donations**
 
