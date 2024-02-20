@@ -1,7 +1,10 @@
-# LogDisabler plugin for DemonBuddy
+# ‼️ This project is discontinued and archived.
+
+# LogDisabler plugin for [DemonBuddy](https://web.archive.org/web/20190103125817/https://www.demonbuddy.com/)
 
 ![](images/Logo.png)
 
+## 👋 Introduction
 
 **LogDisabler** is a plugin for **DemonBuddy** (a bot for **Diablo III** videogame),
 on which you can use this plugin to disable the creation of log files.
@@ -12,29 +15,38 @@ If you don't need to view/manage the log files created by **DemonBuddy**, then t
 
 Note that this plugin does not disable logging messages in the user-interface, you can still use **DemonBuddy** settings to disable that.
 
-# Screenshots
+## 🖼️ Screenshots
 
 ![](images/01.png)
 
-# **Donations**
+## 📝 Requirements
 
-##### Through Paypal:
-If you like my work and want to support it, then please consider to deposit a donation through **Paypal** by clicking on the next button:
+- [Diablo III](https://us.diablo3.blizzard.com/)
+- [DemonBuddy](https://web.archive.org/web/20190103125817/https://www.demonbuddy.com/)
 
-[![Donation Account](images/Paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
+## ⚠️ Disclaimer:
 
-[![Donation Amount](https://img.shields.io/badge/Current%20donations-0%24-red.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
+This Work (the repository and the content provided in) is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Work or the use or other dealings in the Work.
 
-You are free to specify whatever amount of money you wish. That money will be sent to my **Paypal** account.
+## 💪 Contributing
 
-##### Through Envato:
-If you are a .NET programmer, then maybe you would like to consider the purchase of 
-'**DevCase for .NET Framework**', a powerful set of APIs for .NET developers, created by me. 
+This project is discontinued and archived, since the bot DemonBuddy is dead.
 
-You can click the next button to go to the product specifications and the purchase page:
+## 💰 Beyond Contribution 
 
-[![DevCase for .NET Framework](images/DevCase%20Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+This work is distributed for educational purposes and without any profit motive. However, if you find value in my efforts and wish to support and motivate my ongoing work, you may consider contributing financially through the following options:
 
-Note that any source-code within the namespace 'DevCase' included in this **GitHub** repository, was freely extracted and distributed from the commercial library '**DevCase for .NET Framework**'.
+ - ### Paypal:
+    You can donate any amount you like via **Paypal** by clicking on this button:
 
-<u>**Thanks in advance for your consideration!**</u> :thumbsup:
+    [![Donation Account](images/Paypal_Donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
+
+ - ### Envato Market:
+   If you are a .NET developer, you may want to explore '**DevCase Class Library for .NET**', a huge set of APIs that I have on sale.
+   Almost all reusable code that you can find across my works is condensed, refined and provided through DevCase Class Library.
+
+    Check out the product:
+    
+   [![DevCase Class Library for .NET](images/DevCase_Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+
+<u>**Your support means the world to me! Thank you for considering it!**</u> 👍
